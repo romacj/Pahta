@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="640"
+    android:viewportHeight="640"
+    android:width="640dp"
+    android:height="640dp">
+    <group
+        android:rotation="-0"
+        android:scaleX="-1"
+        android:translateX="320"
+        android:translateY="320">
+        <group
+            android:translateX="-320"
+            android:translateY="-320">
+            <path
+                android:pathData="M0 0L640 640L0 640z"
+                android:fillColor="@color/gray" />
+        </group>
+    </group>
+    <group
+        android:rotation="-0"
+        android:scaleX="-1"
+        android:translateX="160"
+        android:translateY="480">
+        <group
+            android:translateX="-160"
+            android:translateY="-160">
+            <path
+                android:pathData="M0 0L320 320L0 320z"
+                android:fillColor="@color/brown_dark" />
+        </group>
+    </group>
+</vector>

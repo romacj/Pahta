@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398072680689",
+    "project_id": "pahtanotification",
+    "storage_bucket": "pahtanotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398072680689:android:6364604b5b3d5f6b475950",
+        "android_client_info": {
+          "package_name": "com.example.pahta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398072680689-p07n5755kkbl3prlhikbesehoj2ocjr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKwiw2roACIFPX0B1lnqxF5dOm0xbc-TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398072680689-p07n5755kkbl3prlhikbesehoj2ocjr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
